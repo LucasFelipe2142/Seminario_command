@@ -43,7 +43,7 @@ java org.example.Main
 
 ## Autor
 
-Lucas Felipe Felicio Santos
+Lucas Felipe Felicio Santos <br>
 Email do Autor: lucasfelicio378@gmail.com
 
 ## Contribuição
