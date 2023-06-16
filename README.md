@@ -6,6 +6,11 @@ Este projeto implementa um controle remoto utilizando o padrão de projeto Comma
 
 O projeto consiste em um controle remoto que possui botões para ligar e desligar uma TV. O controle remoto utiliza o padrão de projeto Command, onde cada botão possui um comando associado que é executado quando o botão é pressionado.
 
+## UML
+
+![Captura de tela de 2023-06-15 22-42-46](https://github.com/LucasFelipe2142/Seminario_command/assets/106194018/677f4fec-1c75-41b3-a1fc-a186ae042840)
+
+
 ## Funcionalidades
 
 O projeto possui as seguintes classes:
@@ -40,6 +45,11 @@ java org.example.Main
 ```
 
 5. Verifique a saída no console para ver as mensagens exibidas pelos observadores.
+
+## PDF de referencia
+
+[Seminario_Observer_Command.pdf](https://github.com/LucasFelipe2142/Seminario_command/files/11770361/Seminario_Observer_Command.pdf)
+
 
 ## Autor
 
