@@ -1,2 +1,11 @@
-package interfaces;public interface Command {
+package interfaces;
+
+/**
+ * Interface que define um comando.
+ */
+public interface Command {
+    /**
+     * Executa o comando.
+     */
+    void execute();
 }
