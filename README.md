@@ -46,6 +46,11 @@ java org.example.Main
 
 5. Verifique a saída no console para ver as mensagens exibidas pelos observadores.
 
+## PDF de referencia
+
+[Seminario_Observer_Command.pdf](https://github.com/LucasFelipe2142/Seminario_command/files/11770361/Seminario_Observer_Command.pdf)
+
+
 ## Autor
 
 Lucas Felipe Felicio Santos
